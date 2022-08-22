@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+
+
+
+Welcome
+
+In this project I used liste of pets in server swagger 
+In order to extract as shown in the pictures
+I added a button "Add"
+I did not finish adding or updating an item due to lack of time 
+I hope I have given enough to accept me. Thank you
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
